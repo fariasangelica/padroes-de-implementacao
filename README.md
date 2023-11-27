@@ -1,4 +1,4 @@
-# Livro: Padrões de Implementação (Um catálogo de padrões indispensáveil para o dia a dia do programador) - KENT BECK.
+## Livro: Padrões de Implementação (Um catálogo de padrões indispensáveil para o dia a dia do programador) - KENT BECK.
 
 Aqui você encontrará resumos do livro e já posso adiantar que o principal objetivo é nos mostrar como comunicar de forma clara a real intenção por trás de um código. Aqui trabalharemos com a linguagem Java.
 
