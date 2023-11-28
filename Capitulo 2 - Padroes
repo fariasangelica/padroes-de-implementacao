@@ -1,0 +1,11 @@
+Capitulo 2 - Padroes
+
+- Nenhum conjunto de padrões funciona em todas as situações de programação.
+
+- Usar padrões ajuda programadores a escreverem soluções razoáveis para problemas comuns, deixando mais tempo, energia e criatividade para aplicarem em problemas verdadeiramente únicos.
+
+- Padrões funcionam melhor no auxílio para a tomada de decisões. Alguns padrões de implementação acabarão chegando às linguagens de programação, assim como usos estruturados de setjmp()/longjmp() tornaram-se o sistema atual para tratamento de exceções. Contudo, costuma ser necessário adaptar um pa-
+drão antes de usá-lo.
+
+
+
