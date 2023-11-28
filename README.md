@@ -17,7 +17,7 @@ Aqui você encontrará os capítulos bem resumidos do livro e já posso adiantar
   - [ ] Comunicação
   - [ ] Flexibilidade
 - [ ] Princípios
-  - [ ] Conseguências locais
+  - [ ] Consequências locais
   - [ ] Minimizar repetições
   - [ ] Lógica e dados em harmonia
   - [ ] Simetria
